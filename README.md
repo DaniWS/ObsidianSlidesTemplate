@@ -1,0 +1,2 @@
+# ObsidianSlidesTemplate
+SimpleTemplate
